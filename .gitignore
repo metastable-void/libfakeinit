@@ -1,0 +1,10 @@
+*.so.*
+*.o
+*.bin
+*.log
+/payload/payload.1
+/payload/payload.2
+/tests/**
+random.*
+*.deflate
+/payload/encoder
